@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderprakash10x&label=Profile%20views&color=0e75b6&style=flat" alt="coderprakash10x" /> </p>
 
-- 🔭 I’m currently working on **LazyBloging**
+- 🔭 I’m currently working on **RS Blogs**
 
 - 🌱 I’m currently learning **Nextjs**
 
