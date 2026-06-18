@@ -1,35 +1,150 @@
-<h1 align="center">Hi 👋, I'm Prakash Dubey</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<div align="center">
 
+# 👋 Hey, I'm Prakash Dubey
 
+### Full Stack Developer · MERN Stack · React & Next.js
 
-<img aling ="right" alt="Coding" width="400" src ="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
+[![Profile Views](https://komarev.com/ghpvc/?username=coderprakash10x&label=Profile%20Views&color=1B3A5C&style=flat-square)](https://github.com/coderprakash10x)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakash-dubey-394020371)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mr.prakash10x@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mr.x_10x)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderprakash10x&label=Profile%20views&color=0e75b6&style=flat" alt="coderprakash10x" /> </p>
+</div>
 
-- 🔭 I’m currently working on **RS Blogs**
+---
 
-- 🌱 I’m currently learning **Nextjs**
+## 🚀 About Me
 
-- 👯 I’m looking to collaborate on **Open Source Project**
+I'm a **3rd year B.Tech CSE student** at KIPM College of Engineering & Technology, Lucknow — building real, production-grade web applications that actually get used.
 
-- 💬 Ask me about **Nextjs ,MERN Stack**
+- 🏆 Built & deployed **Ignitia Nexus** — a live 10-level tech treasure hunt platform used by **300+ concurrent users** at Evolvera Club's annual tech fest. Zero downtime on free-tier infrastructure.
+- 🌐 Lead developer of **Evolvera Club's official website** — maintaining a fully dynamic, production-ready portal used by students and faculty.
+- 🤖 Selected for **Smart India Hackathon (SIH) 2025** with MindMirror AI — an AI-powered mental health web application.
+- ⚡ I use **AI-assisted development workflows** (GitHub Copilot + Claude AI) to ship complex full-stack products faster.
+- 📚 Currently deepening expertise in **Next.js**, **advanced React patterns**, and **system design**.
+- 💬 Ask me about **MERN Stack, REST APIs, JWT Auth, React, or Tailwind CSS**
+- 📫 Reach me at **mr.prakash10x@gmail.com**
 
-- 📫 How to reach me **mr.prakash10x@gmail.com**
+---
 
-- ⚡ Fun fact **I think I am funny**
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/mr.x_10x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.x_10x" height="30" width="40" /></a>
-</p>
+**Frontend**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderprakash10x&show_icons=true&locale=en&layout=compact" alt="coderprakash10x" /></p>
+**Backend**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderprakash10x&show_icons=true&locale=en" alt="coderprakash10x" /></p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderprakash10x&" alt="coderprakash10x" /></p>
+**Databases**
 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**DevOps & Tools**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🏗️ Featured Projects
+
+### 🎯 [Ignitia Nexus — Live Tech Treasure Hunt Platform](https://github.com/coderprakash10x)
+> React 19 · TypeScript · Node.js · Express · MongoDB Atlas · Tailwind CSS · JWT · Vercel · Render
+
+**Used live in production at Evolvera Club's annual tech fest — 300+ concurrent users, zero downtime.**
+
+- 10-level sequential decryption game with 4 distinct interactive challenge types
+- RESTful backend with JWT auth, idempotent registration, server-side progress sync
+- Real-time admin console with event lifecycle controls, live leaderboard & CSV export
+- Cinematic matrix-style intro with Web Audio API sound synthesis
+- Entire stack deployed on **free tier** — Vercel + Render + MongoDB Atlas
+
+---
+
+### ⚔️ [BugHunt — Online Coding Competition Platform](https://github.com/coderprakash10x)
+> MERN Stack · Judge0 API · React · Node.js · MongoDB
+
+- Integrated Judge0 API for real-time multi-language code evaluation (accepted / WA / TLE)
+- Anti-cheat fullscreen enforcement, automatic submission locking, real-time leaderboard
+- Full admin panel — problem creation, participant monitoring, live score visibility
+
+---
+
+### 🌐 [Evolvera Club Website — Official Club Portal](https://github.com/coderprakash10x)
+> React · Tailwind CSS · GSAP · Node.js · MongoDB · Vercel
+
+- Official website for Evolvera, KIPM's technical club — sole developer, ongoing production ownership
+- Dynamic CMS allowing admins to update events & members without code changes
+- Smooth GSAP animations, fully responsive, deployed and publicly accessible
+
+---
+
+### 🤖 [MindMirror AI — SIH 2025 Project](https://github.com/coderprakash10x)
+> MERN Stack · AI/ML APIs · React · Node.js · MongoDB
+
+- Smart India Hackathon 2025 submission — AI-powered mental health & self-reflection platform
+- Intelligent journaling with emotional pattern analysis via AI/ML API integration
+- Built complete full-stack under national hackathon constraints
+
+---
+
+### 🎨 [Personal Portfolio](https://github.com/coderprakash10x)
+> React · Three.js · Tailwind CSS
+
+- 3D animations with Three.js, custom cursor effects, and smooth scroll transitions
+- Showcases projects, skills, and development experience interactively
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=coderprakash10x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderprakash10x&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coderprakash10x&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Currently
+
+- 🔨 Building **RS Blogs** — a full-featured blogging platform
+- 📖 Learning **Next.js App Router**, **Advanced React Patterns**, and **System Design**
+- 🤝 Looking to collaborate on **open source MERN / Next.js projects**
+- 💼 Open to **internships and full-time opportunities**
+
+---
+
+<div align="center">
+
+**⚡ I ship real products. Check the pinned repos.**
+
+[![GitHub](https://img.shields.io/badge/github.com/coderprakash10x-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coderprakash10x)
+
+</div>
