@@ -7,7 +7,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=coderprakash10x&label=Profile%20Views&color=1B3A5C&style=flat-square)](https://github.com/coderprakash10x)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakash-dubey-394020371)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mr.prakash10x@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mr.x_10x)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)]([https://instagram.com/mr.x_10x](https://www.instagram.com/mr.prakash10x/))
 
 </div>
 
