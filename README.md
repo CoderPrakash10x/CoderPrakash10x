@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a **3rd year B.Tech CSE student** at KIPM College of Engineering & Technology, Lucknow — building real, production-grade web applications that actually get used.
+I'm a **3rd year B.Tech CSE student** at KIPM College of Engineering & Technology, Gorakhpur — building real, production-grade web applications that actually get used.
 
 - 🏆 Built & deployed **Ignitia Nexus** — a live 10-level tech treasure hunt platform used by **300+ concurrent users** at Evolvera Club's annual tech fest. Zero downtime on free-tier infrastructure.
 - 🌐 Lead developer of **Evolvera Club's official website** — maintaining a fully dynamic, production-ready portal used by students and faculty.
@@ -32,7 +32,6 @@ I'm a **3rd year B.Tech CSE student** at KIPM College of Engineering & Technolog
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -133,10 +132,7 @@ I'm a **3rd year B.Tech CSE student** at KIPM College of Engineering & Technolog
 ---
 
 ## 🎯 Currently
-
-- 🔨 Building **RS Blogs** — a full-featured blogging platform
-- 📖 Learning **Next.js App Router**, **Advanced React Patterns**, and **System Design**
-- 🤝 Looking to collaborate on **open source MERN / Next.js projects**
+- 🤝 Looking to collaborate on **open source MERN projects**
 - 💼 Open to **internships and full-time opportunities**
 
 ---
